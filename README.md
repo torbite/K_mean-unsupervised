@@ -13,3 +13,5 @@ To test the project you need to have the two files in the same folder ("cartesia
 ![Captura de tela2](https://github.com/torbite/k_mean-unsupervised/assets/89304412/d38904c2-08cc-4018-998d-2ee644bf4cd4)
 
 ![Captura de tela3](https://github.com/torbite/k_mean-unsupervised/assets/89304412/33124603-dd09-4ef8-850b-3660061e580b)
+
+![Captura de tela4](https://github.com/torbite/k_mean-unsupervised/assets/89304412/3b93ed77-584e-4a65-9fa9-6d2743e4e5be)
