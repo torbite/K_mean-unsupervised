@@ -7,6 +7,9 @@ For the learning of the algorithm, no machine learning libraries, such as tensor
 To test the project you need to have the two files in the same folder (cartesianCalc.py and k_mean_manually.py), and then run the k_mean_manually.py. The code will ask you for a amount of clusters from 1 to 18, and then will show the results. After you are done, you can simply close the graph window.
 
 # ScreenShots
-Image 1:
+
 ![Captura de tela1](https://github.com/torbite/k_mean-unsupervised/assets/89304412/1e0ffb54-1992-4bf5-b8bc-7529f5721542)
 
+![Captura de tela2](https://github.com/torbite/k_mean-unsupervised/assets/89304412/d38904c2-08cc-4018-998d-2ee644bf4cd4)
+
+![Captura de tela3](https://github.com/torbite/k_mean-unsupervised/assets/89304412/33124603-dd09-4ef8-850b-3660061e580b)
