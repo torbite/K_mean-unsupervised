@@ -1,4 +1,4 @@
-# k_mean-unsupervised
+# K_mean-unsupervised
 This is a recreational project, that was made just for my personal enjoyment and learning.
 The code creates 1000 random points with positions that vary from [1,1] to [1500,1500] and then utilizes the k_mean algorithm and find clusters (minimum 1, maximum 18) within the points. After that, it shows the results in a graph.
 The K_mean algorithm works by creating a "k" amount of clusters, and adjusts their centers until they reach a confortable position.
