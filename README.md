@@ -4,7 +4,7 @@ The code creates 1000 random points with positions that vary from [1,1] to [1500
 The K_mean algorithm works by creating a "k" amount of clusters, and adjusts their centers until they reach a confortable position.
 For the learning of the algorithm, no machine learning libraries, such as tensorFlow, were used. The only libraries utilized were the following: matplotlib, random and copy 
 
-To test the project you need to have the two files in the same folder (cartesianCalc.py and k_mean_manually.py), and then run the k_mean_manually.py. The code will ask you for a amount of clusters from 1 to 18, and then will show the results. After you are done, you can simply close the graph window.
+To test the project you need to have the two files in the same folder ("cartesianCalc.py" and "k_mean_manually.py"), and then run "k_mean_manually.py". The code will ask you for a amount of clusters from 1 to 18, and then will show the results. After you are done, you can simply close the graph window.
 
 # ScreenShots
 
