@@ -1,7 +1,7 @@
 import matplotlib.pyplot as plt
 import matplotlib.colors as matcol
 import random
-import cartesianCalc as cart
+import CartesianCalc as cart
 import copy
 
 class Point():
