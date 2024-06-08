@@ -114,7 +114,7 @@ for z in range(100):
         nbrs.append(k_pts_list[i])
     error = J(ks, nbrs)
     print(f"iteration {z}")
-    print("erro: ", error)
+    print("error: ", error)
     print()
     differr = oldError - error
     
